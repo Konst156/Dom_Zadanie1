@@ -1,0 +1,15 @@
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\Задача2.csproj.AssemblyReference.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\Задача2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\Задача2.AssemblyInfoInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\Задача2.AssemblyInfo.cs
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\Задача2.csproj.CoreCompileInputs.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\bin\Debug\net7.0\Задача2.exe
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\bin\Debug\net7.0\Задача2.deps.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\bin\Debug\net7.0\Задача2.runtimeconfig.json
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\bin\Debug\net7.0\Задача2.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\bin\Debug\net7.0\Задача2.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\Задача2.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\refint\Задача2.dll
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\Задача2.pdb
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\Задача2.genruntimeconfig.cache
+C:\Users\kzhes\OneDrive\Рабочий стол\Программирование\GB\C#\DZ1\Задача2\obj\Debug\net7.0\ref\Задача2.dll
